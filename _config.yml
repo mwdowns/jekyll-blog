@@ -22,10 +22,10 @@ title: Matt's Blah Page
 email: mwdowns@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for Matthew Downs.
-# baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
-# url: "http://mwdowns.me" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
-url: ""
+baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
+url: "http://mwdowns.me" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: ""
+# url: ""
 twitter_username: mwdowns
 github_username:  mwdowns
 
